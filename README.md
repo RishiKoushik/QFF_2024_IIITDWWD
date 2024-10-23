@@ -12,6 +12,8 @@ We hope you have gained valuable insights into quantum computing and enjoyed the
 
 Get ready to showcase your skills and creativity in the world of quantum computing. Good luck to everyone, and may the best participants win!
 
+**Contact Info:** For any doubts, inquiries, or assistance, please feel free to reach out to us at qcclub@iiitdwd.ac.in
+
 ## 1. Quantum Computing Research Writeup Challenge
 
 **Objective:** Create a concise and informative summary of a research article related to quantum computing published on or after April 1, 2024.
