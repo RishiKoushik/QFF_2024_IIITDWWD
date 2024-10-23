@@ -29,14 +29,14 @@ Get ready to showcase your skills and creativity in the world of quantum computi
 ### Submission
 Present your writeup in a clear and engaging format that is accessible to readers who may not have a deep background in quantum computing. This is and Individual challenge and **Only PDF submissions are accepted.**
 
-Please submit your writeup using the following link: [Submit Your Writeup](#)
+Please submit your writeup using the following link: [Submit Your Writeup](#https://forms.gle/UJZMtZGJvzHYhjrs5)
 
 ### Prize
 There will be **one winner** selected for this challenge, who will receive a **Qiskit Fall Fest swag kit** as a reward for their outstanding work.
 
 
 ### Deadline
-30th October 2024
+30th October 2024 11:59 PM IST (GMT+5:30)
 
 ## 2. Qiskit Coding Challenges
 
@@ -56,9 +56,9 @@ Each team must complete the challenges outlined in the notebooks and submit thei
 The top two performing teams across the two notebooks will each be awarded a **Qiskit Fall Fest 2024 swag kit** for each member of the team.
 
 ### Challenge Dates
-- **Notebook 1 Release Date:** 24th October 2024
-- **Notebook 2 Release Date:** 25th October 2024
-- **Submission Deadline:** 30th October 2024
+- **Notebook 1 Release Date:** 24th October 2024 6:00 PM IST (GMT+5:30)
+- **Notebook 2 Release Date:** 25th October 2024 6:00 PM IST (GMT+5:30)
+- **Submission Deadline:** 30th October 2024 11:59 PM IST (GMT+5:30)
 
 ### References
 To be released 
@@ -74,12 +74,12 @@ In this challenge, you will be provided with specific final quantum states. Your
 This is an individual challenge and each participant must complete the task within the allotted time and submit screenshots of their solutions. Ensure that your solution clearly displays the quantum circuit you have constructed and the corresponding quantum state achieved.
 
 ### Prizes
-The two top scorers will be awarded **a Qiskit Fall Fest swag kit each** as a reward for their outstanding performance!
+The two top scorers will be awarded a **Qiskit Fall Fest swag kit** each as a reward for their outstanding performance!
 
 ### Timeline
 **Date:** 24th October 2024
 
-**Time:** 10:00PM to 11:00PM
+**Time:** 10:00PM to 11:00PM IST (GMT+5:30)
 
 ### Submission Form
 TBA
