@@ -29,7 +29,7 @@ Get ready to showcase your skills and creativity in the world of quantum computi
 ### Submission
 Present your writeup in a clear and engaging format that is accessible to readers who may not have a deep background in quantum computing. This is and Individual challenge and **Only PDF submissions are accepted.**
 
-Please submit your writeup using the following link: [Submit Your Writeup](#https://forms.gle/UJZMtZGJvzHYhjrs5)
+Please submit your writeup using the following link: [Submit Your Writeup](https://forms.gle/UJZMtZGJvzHYhjrs5)
 
 ### Prize
 There will be **one winner** selected for this challenge, who will receive a **Qiskit Fall Fest swag kit** as a reward for their outstanding work.
