@@ -63,6 +63,9 @@ The top two performing teams across the two notebooks will each be awarded a **Q
 ### References
 To be released 
 
+### Credits
+We would like to extend our heartfelt thanks to Qiskit Fall Fest 2024 for providing these notebooks as part of the Sponsored Event Package. Their support plays a crucial role in making this event a success and fostering the growth of the quantum computing community.
+
 ## 3. IBM Composer Challenge
 
 **Overview:** The IBM Composer Challenge is an exciting timed competition where individual participants will work the IBM Composer.
