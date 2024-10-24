@@ -58,7 +58,7 @@ Each team must complete the challenges outlined in the notebooks and submit thei
 The top two performing teams across the two notebooks will each be awarded a **Qiskit Fall Fest 2024 swag kit** for each member of the team.
 
 ### Challenge Dates
-- **Notebook 1 Release Date:** 24th October 2024 6:00 PM IST (GMT+5:30)
+- **Notebook 1 Release Date:** 24th October 2024 6:00 PM IST (GMT+5:30) [Submit Your Notebook](https://forms.gle/7ZT5Twemosf1vN2dA)
 - **Notebook 2 Release Date:** 25th October 2024 6:00 PM IST (GMT+5:30)
 - **Submission Deadline:** 30th October 2024 11:59 PM IST (GMT+5:30)
 
