@@ -87,4 +87,4 @@ The two top scorers will be awarded a **Qiskit Fall Fest swag kit** each as a re
 **Time:** 10:00PM to 11:00PM IST (GMT+5:30)
 
 ### Submission Form
-TBA
+[Challenge Form](https://forms.gle/DA7gpprqfUkNZPzt7)
