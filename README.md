@@ -59,7 +59,7 @@ The top two performing teams across the two notebooks will each be awarded a **Q
 
 ### Challenge Dates
 - **Notebook 1 Release Date:** 24th October 2024 6:00 PM IST (GMT+5:30) [Submit Your Notebook](https://forms.gle/7ZT5Twemosf1vN2dA)
-- **Notebook 2 Release Date:** 25th October 2024 6:00 PM IST (GMT+5:30)
+- **Notebook 2 Release Date:** 25th October 2024 6:00 PM IST (GMT+5:30) [Submit Your Notebook](https://forms.gle/HC7gCp1h7xsh6ahd6).
 - **Submission Deadline:** 30th October 2024 11:59 PM IST (GMT+5:30)
 
 ### References
